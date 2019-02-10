@@ -1,0 +1,4 @@
+Step 1: git add "file_name"
+step 2: git commit -m "some_message"
+step 3: git remote add origin https://github.com/fanUOB/Course-Web-Technology.git
+step 4: git push origin master
